@@ -10,7 +10,7 @@ I am an MCA student and aspiring **Full Stack Developer** passionate about build
 ### 1️⃣ Employee Management System
 
 * **Tech:** Node.js, Express, MySQL, EJS
-* **Features:** Admin login, add/edit/delete employee, image upload
+* **Features:** Admin login, add/edit/delete employee, Display Employee data ,image upload
 * **GitHub Repo:** [https://github.com/Bhupendra0000/WeB-Project](https://github.com/Bhupendra0000/WeB-Project)
 
 ---
@@ -41,8 +41,9 @@ I am an MCA student and aspiring **Full Stack Developer** passionate about build
 ## 🛠️ Skills
 
 * HTML, CSS, JavaScript
-* Node.js, Express.js
-* MySQL
+* C,C++,python.
+* React.js,Node.js, Express.js
+* MySQL,mongodb,PostgreSQL
 * Git & GitHub
 
 ---
@@ -50,7 +51,7 @@ I am an MCA student and aspiring **Full Stack Developer** passionate about build
 ## 📫 Contact
 
 * GitHub: [https://github.com/Bhupendra0000](https://github.com/Bhupendra0000)
-* Email: *(add your email here)*
+* Email: *(bhupendrasharma3423@gmail.com)*
 
 ---
 
