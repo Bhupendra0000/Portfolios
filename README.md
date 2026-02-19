@@ -7,7 +7,7 @@ I am an MCA student and aspiring **Full Stack Developer** passionate about build
 
 ## 🚀 Featured Projects
 
-### 1️⃣ Admin Dashboard (Frontend Technical Assessment)
+### 1️⃣ Admin Dashboard (Frontend with DummyJSON API)
 
 * **Tech:** Next.js (App Router), Material UI, Zustand, NextAuth, DummyJSON API
 * **Features:**
